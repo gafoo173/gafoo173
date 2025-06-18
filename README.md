@@ -19,7 +19,7 @@ I'm a passionate programmer specializing in **C** and **C++**, with basic knowle
 ### 🛠️ System Tools
 | Tool | Description | Status |
 |------|-------------|--------|
-| **SC (System Control)** | System management toolkit with various utilities | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+| **SC (System Control)** | System management toolkit with various utilities | ![WIP](https://img.shields.io/badge/status-in%20development-yellow) |
 | **HHB** | File recovery tool (currently in development) | ![WIP](https://img.shields.io/badge/status-in%20development-yellow) |
 | **Gafoc App** | GUI application for the Gafoc compression library | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
 
