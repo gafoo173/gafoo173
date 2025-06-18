@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Gafoo 👋
 
-<!--
-**gafoo173/gafoo173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Low-Level Developer with Basic Cybersecurity Knowledge
 
-Here are some ideas to get you started:
+I'm a passionate programmer specializing in **C** and **C++**, with basic knowledge in **cybersecurity**. I develop efficient tools and libraries that solve complex problems at the system level.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py,assembly&theme=light)
+![Tools](https://skillicons.dev/icons?i=linux,git,github,vim,visualstudio&theme=light)
+
+## 🔥 Featured Projects
+
+### 📚 Python Libraries
+| Library | Description | Status |
+|---------|-------------|--------|
+| **[Calco](https://github.com/gafoo173/calco)** | Ultra-fast mathematical library for complex/simple repetitive calculations | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+| **[Gafoc](https://github.com/gafoo173/gafoc)** | Intelligent compression library that tests multiple algorithms to select the optimal one | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+| **[HardView](https://github.com/gafoo173/hardview)** | Cross-platform hardware information toolkit (Windows/Linux support) | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+
+### 🛠️ System Tools
+| Tool | Description | Status |
+|------|-------------|--------|
+| **SC (System Control)** | System management toolkit with various utilities | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+| **HHB** | File recovery tool (currently in development) | ![WIP](https://img.shields.io/badge/status-in%20development-yellow) |
+| **Gafoc App** | GUI application for the Gafoc compression library | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gafoo173&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gafoo173&layout=compact&theme=radical)
+
+## 🛠️ Technical Skills
+
+- **Languages**: C, C++, Python, x86 Assembly
+- **System Programming**: Performance Optimization, Hardware Interaction
+- **Other**: Algorithm Design, Data Compression, Mathematical Computing
+
+## 🌟 Project Highlights
+
+- **Performance Focus**: Optimized for speed and efficiency
+- **Cross-Platform**: Windows and Linux compatibility
+- **Innovative Solutions**: Like Gafoc's adaptive compression
+- **Practical Tools**: Solving real-world system challenges
+
+## 📫 Contact Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gaafr1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarwaled3374@gmail.com)
