@@ -31,7 +31,7 @@ I'm a passionate programmer specializing in **C** and **C++**, with basic knowle
 
 ## 🛠️ Technical Skills
 
-- **Languages**: C, C++, Python, x86 Assembly
+- **Languages**: C, C++, Python,
 - **System Programming**: Performance Optimization, Hardware Interaction
 - **Other**: Algorithm Design, Data Compression, Mathematical Computing
 
