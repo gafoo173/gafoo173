@@ -14,7 +14,7 @@ I'm a passionate programmer specializing in **C** and **C++**, with basic knowle
 |---------|-------------|--------|
 | **[Calco](https://github.com/gafoo173/calco)** | Ultra-fast mathematical library for complex/simple repetitive calculations | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
 | **[Gafoc](https://github.com/gafoo173/gafoc)** | Intelligent compression library that tests multiple algorithms to select the optimal one | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
-| **[HardView](https://github.com/gafoo173/hardview)** | Cross-platform hardware information toolkit (Windows/Linux support) | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+| **[HardView](https://github.com/gafoo173/hardview)** | Cross-platform hardware information  (Windows/Linux support) | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
 
 ### 🛠️ System Tools
 | Tool | Description | Status |
