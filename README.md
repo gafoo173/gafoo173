@@ -12,16 +12,15 @@ I'm a passionate programmer specializing in **C** and **C++**, with basic knowle
 ### 📚 Python Libraries
 | Library | Description | Status |
 |---------|-------------|--------|
-| **[Calco](https://github.com/gafoo173/calco)** | Ultra-fast mathematical library for complex/simple repetitive calculations | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
-| **[Gafoc](https://github.com/gafoo173/gafoc)** | Intelligent compression library that tests multiple algorithms to select the optimal one | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
 | **[HardView](https://github.com/gafoo173/hardview)** | Cross-platform hardware information  (Windows/Linux support) | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+| **[Calco](https://github.com/gafoo173/calco)** | Ultra-fast mathematical library for complex/simple repetitive calculations | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+
 
 ### 🛠️ System Tools
 | Tool | Description | Status |
 |------|-------------|--------|
 | **SC (System Control)** | System management toolkit with various utilities | ![WIP](https://img.shields.io/badge/status-in%20development-yellow) |
 | **HHB** | File recovery tool (currently in development) | ![WIP](https://img.shields.io/badge/status-in%20development-yellow) |
-| **Gafoc App** | GUI application for the Gafoc compression library | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
 
 ## 📊 GitHub Stats
 
