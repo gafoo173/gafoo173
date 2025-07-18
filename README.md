@@ -1,8 +1,8 @@
 # Hi there, I'm Gafoo 👋
 
-## 🚀 Low-Level Developer with Basic Cybersecurity Knowledge
+## 🚀 Low-Level Develope=
 
-I'm a passionate programmer specializing in **C** and **C++**, with basic knowledge in **cybersecurity**. I develop efficient tools and libraries that solve complex problems at the system level.
+I'm a passionate programmer specializing in **C** and **C++**, I develop efficient tools and libraries that solve complex problems at the system level.
 
 ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py,assembly&theme=light)
 ![Tools](https://skillicons.dev/icons?i=linux,git,github,vim,visualstudio&theme=light)
