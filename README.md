@@ -1,6 +1,6 @@
 # Hi there, I'm Gafoo 👋
 
-## 🚀 Low-Level Develope=
+## 🚀 Low-Level Developer
 
 I'm a passionate programmer specializing in **C** and **C++**, I develop efficient tools and libraries that solve complex problems at the system level.
 
