@@ -4,8 +4,8 @@
 
 I'm a passionate programmer specializing in **C** and **C++**, I develop efficient tools and libraries that solve complex problems at the system level.
 
-![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py,assembly&theme=light)
-![Tools](https://skillicons.dev/icons?i=linux,git,github,vim,visualstudio&theme=light)
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,py#&theme=light)
+![Tools](https://skillicons.dev/icons?i=git,github,vim,visualstudio&theme=dark)
 
 ## 🔥 Featured Projects
 
