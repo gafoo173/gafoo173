@@ -2,7 +2,7 @@
 
 ## 🚀 Low-Level Developer
 
-I'm a passionate programmer specializing in **C** and **C++**, I develop efficient tools and libraries that solve complex problems at the system level.
+I'm a passionate programmer specializing in **C** and **C++**, I develop efficient tools and python libraries 
 
 ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,py#&theme=light)
 ![Tools](https://skillicons.dev/icons?i=git,github,vim,visualstudio&theme=dark)
@@ -30,7 +30,7 @@ I'm a passionate programmer specializing in **C** and **C++**, I develop efficie
 
 ## 🛠️ Technical Skills
 
-- **Languages**: C, C++, Python,
+- **Languages**: C, C++, C#, Python
 - **System Programming**: Performance Optimization, Hardware Interaction
 - **Other**: Algorithm Design, Data Compression, Mathematical Computing
 
