@@ -16,7 +16,6 @@ I am a programmer specializing in **C** and **C++**, developing efficient tools 
 | Library | Description | Status |
 |---------|-------------|--------|
 | [HardView](https://github.com/gafoo173/hardview) | Cross-platform hardware information (Windows/Linux support) | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
-| [Calco](https://github.com/gafoo173/calco) | Ultra-fast mathematical library for complex/repetitive calculations | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
 
 ### System Tools
 | Tool | Description | Status |
