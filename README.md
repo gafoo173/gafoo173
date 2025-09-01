@@ -17,12 +17,6 @@ I am a programmer specializing in **C** and **C++**, developing efficient tools 
 |---------|-------------|--------|
 | [HardView](https://github.com/gafoo173/hardview) | Cross-platform hardware information (Windows/Linux support) | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
 
-### System Tools
-| Tool | Description | Status |
-|------|-------------|--------|
-| SC (System Control) | System management toolkit with various utilities | ![WIP](https://img.shields.io/badge/status-in%20development-yellow) |
-| HHB | File recovery tool | ![WIP](https://img.shields.io/badge/status-in%20development-yellow) |
-
 ---
 
 ## GitHub Stats
