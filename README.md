@@ -30,12 +30,11 @@ I am a programmer specializing in **C** and **C++**, developing efficient tools 
 
 - **Languages:** C, C++, C#, Python  
 - **System Programming:** Performance optimization, hardware interaction  
-- **Algorithms & Data:** Algorithm design, data compression, mathematical computing  
 - **Cross-Platform Development:** Windows and Linux support  
 
 ---
 
 ## Contact
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gaafr1/)  
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarwaled3374@gmail.com)
