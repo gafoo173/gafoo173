@@ -6,7 +6,7 @@ I am a programmer specializing in **C** and **C++**, developing efficient tools 
 
 ### Programming Languages & Tools
 ![Languages](https://skillicons.dev/icons?i=c,cpp,cs,py)
-![Tools](https://skillicons.dev/icons?i=git,github,vim,visualstudio)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)
 
 ---
 
