@@ -10,10 +10,9 @@ I am a programmer specializing in **C** and **C++**, developing efficient tools 
 
 ---
 
-## Featured Projects
+## Projects
 
-### Python Libraries
-| Library | Description | Status |
+| Project | Description | Status |
 |---------|-------------|--------|
 | [HardView](https://github.com/gafoo173/hardview) | Cross-platform hardware information (Windows/Linux support) | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
 
