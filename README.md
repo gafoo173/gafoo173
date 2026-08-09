@@ -10,7 +10,7 @@
 <tr>
 <td width="65%" valign="middle">
 
-I specialize in **C** and **C++**, building efficient, low-level tools — with supporting libraries in **Python**.
+I specialize in **C** and **C++**, building efficient, low-level tools
 
 ![Languages](https://skillicons.dev/icons?i=c,cpp)
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)
