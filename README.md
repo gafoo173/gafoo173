@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Gafoo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Low-Level%20Developer&descAlignY=68&descSize=15&descColor=ffffff" alt="Gafoo - Low-Level Developer" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Low-Level+Developer;C+%26+C%2B%2B+Systems+Programming;Building+HardView)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Low-Level+Developer;C+%26+C%2B%2B+Systems+Programming)](https://git.io/typing-svg)
 
 </div>
 
