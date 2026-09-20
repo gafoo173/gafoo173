@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Gafar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Low-Level%20Developer&descAlignY=68&descSize=15&descColor=ffffff" alt="Gafar - Low-Level Developer" width="100%"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Low-Level+Developer;C+%26+C%2B%2B+Systems+Programming)](https://git.io/typing-svg)
 
 </div>
@@ -53,11 +49,3 @@ Cross-platform hardware information library, with support for both **Windows** a
 | **System Programming** | Performance optimization, hardware interaction |
 
 ---
-
-## 📬 Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarwaled3374@gmail.com)
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
-</div>
